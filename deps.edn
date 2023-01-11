@@ -1,0 +1,2 @@
+{:path ["src"]
+ :deps {io.github.cicadabank/bips {:git/sha "0f79b636d856d422edd412895d15f79ff20b999d"}}}
